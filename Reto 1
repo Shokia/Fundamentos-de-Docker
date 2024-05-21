@@ -11,20 +11,20 @@
 ## Paso 1: Descarga la imagen
 docker pull nginx:latest
 
-![Texto alternativo](Fundamentos-de-Docker/Descargar.png)
+![Alt Text](Fundamentos-de-Docker/Descargar.png)
 
 ## Paso 2: Iniciar contenedor
 docker run --name my-nginx -p 8080:80 -d nginx:latest
-![Texto alternativo](Fundamentos-de-Docker/Iniciar.png)
+![Alt Text](Fundamentos-de-Docker/Iniciar.png)
 
 Paso 3: Verificar contenedor
 docker ps
-![Texto alternativo](Fundamentos-de-Docker/check.png)
+![Alt Text](Fundamentos-de-Docker/check.png)
 
 Paso 4: Acceder al servidor Nginx a través de un navegador web
 
 Paso 5: Captura
-![Texto alternativo](Fundamentos-de-Docker/captura.png)
+![Alt Text](Fundamentos-de-Docker/captura.png)
 
 
 

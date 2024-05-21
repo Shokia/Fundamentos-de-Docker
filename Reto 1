@@ -11,6 +11,6 @@ Recuerden, el objetivo de este reto es validar lo que ya aprendieron. ¡Buena su
 #Paso 1: Descarga la imagen
 docker pull nginx:latest
 
-![Texto alternativo](D:\Bibliotecas\Escritorio\Docker\Reto 1)
+![Texto alternativo](Fundamentos-de-Docker/Descargar.png)
 
 

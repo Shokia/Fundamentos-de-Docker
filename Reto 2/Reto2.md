@@ -11,18 +11,18 @@
 ![Alt Text](Terminal.png)
 
 ## Paso 3: Levantar los contenedores
-## Comando utilizado: Docker-compose up -d
+#### Comando utilizado: Docker-compose up -d
 
 ![Alt Text](renning.png)
 
 ## Paso 4: Ingresar a la siguiente dirección
-## http://localhost:8080
+#### http://localhost:8080
 
 ![Alt Text](pagina.png)
 
 ## Paso 5: Detener y eliminar el contenedor “backend”
-## Comandos utilizados
-## docker stop teemii-master-backend-1
-## docker rm teemii-master-backend-1
+#### Comandos utilizados
+#### docker stop teemii-master-backend-1
+#### docker rm teemii-master-backend-1
 
 ![Alt Text](manga.png)

@@ -30,7 +30,7 @@ docker-compose rm teemii-backend
 
 ![Alt Text](stopdel.png)
 
-## Paso 6: Levantar el bacend de nuevo
+## Paso 6: Levantar el backend de nuevo
 docker-compose up -d teemii-backend
 
 ![Alt Text](backend.png)

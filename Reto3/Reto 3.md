@@ -19,7 +19,7 @@ http://localhost:8080
 
 ![Alt Text](enlace.png)
 
-## Paso 4: Añadir manda
+## Paso 4: Añadir manga
 
 ![Alt Text](manga2.png)
 
